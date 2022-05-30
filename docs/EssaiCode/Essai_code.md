@@ -1,1 +1,1 @@
-{{ IDE('scripts/foo/bar/', MAX = 8, SANS = 'sum') }}
+{{ IDE('somme', MAX = 8, SANS = 'sum') }}
