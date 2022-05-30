@@ -1,26 +1,20 @@
-# Bonjour, bienvenue sur le site des NSI
+# Bonjour, bienvenue sur le site des NSI du lycée Jean CALVIN
 
-du texte 
+Site calvin :
+<figure>
+<img src="../img/Logo_Calvin1.png" width="300">
+<figcaption> Le lycée</figcaption>
+
+</figure>
+
+# Image flottantes
+![Logo_Calvin1](img/Logo_Calvin1.png){width=50% align=left}
+Bienvenue sur le site
 
 
-- truc
-- machin
-- bidule
 
-1. choose
-2. chosse2
 
-du code en ligne
-
-```python
-print('Bonjour')
-```
-
-```sql
-SELECT nom
-FROM film
-WHERE acteur='Moi'
-```
+d
 
 
 

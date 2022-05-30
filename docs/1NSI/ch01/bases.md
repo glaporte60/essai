@@ -8,7 +8,7 @@
 === "Explication"
 
     On souhaite faire une fonction Python somme qui prend en paramètre une liste et qui renvoie la somme de cette 
-    liste ----- a 12h30
+    liste
 
 
 
@@ -25,18 +25,6 @@
     ```
 
     [A essayer sur PythonTutor](https://pythontutor.com/visualize.html#mode=display){ .md-button :target="_blank" }
-
-Site calvin :
-<figure>
-<img src="../img/Logo_Calvin1.png" width="300">
-<figcaption> Le lycée</figcaption>
-
-</figure>
-
-# Image flottantes
-![Logo_Calvin1](img/Logo_Calvin1.png){width=50% align=left}
-Bienvenue sur le site
-
 
 
 
