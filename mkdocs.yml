@@ -1,5 +1,10 @@
 site_name: "Le Site NSI au Lycée Jean CALVIN"
-site_url: https://monsite.com/essai
+site_url: https://github.com/glaporte60/essai
+
+#https://monsite.com/essai
+#site_url: https://ens-fr.gitlab.io/mkdocs
+#repo_url: https://gitlab.com/ens-fr/mkdocs
+
 
 docs_dir: docs
 
