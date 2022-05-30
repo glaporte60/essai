@@ -33,7 +33,7 @@ markdown_extensions:
 # Pour ajouter des pages    
 nav:
     - 'Accueil' : 'index.md'
-    - 'A propos' : 'a_propos.md'
+    - 'A propos guigui' : 'a_propos.md'
     - 'EssaiCode' : 'EssaiCode/Essai_code.md'
     - 'NSI1':
         - 'Chapitre1': '1NSI/ch01/bases.md'
