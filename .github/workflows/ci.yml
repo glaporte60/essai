@@ -2,8 +2,8 @@ name: ci
 on:
   push:
     branches:
-      #- main
-      - gh-pages
+      - main
+      
 jobs:
   deploy:
     runs-on: windows-latest
