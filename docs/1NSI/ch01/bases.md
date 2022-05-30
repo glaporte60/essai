@@ -36,12 +36,9 @@ Elles permettent de délimiter des blocs de contenu
 
     Elles structurent donc sans alourdir les onglets de navigation.
 
-```markdown
-!!! note "Pour une note"
-    `note`
-```
+???note "Pour une note"
 
-```markdown
-!!! example "Pour des exemples"
-    `example`
-```
+
+???example "Pour des exemples"
+
+
