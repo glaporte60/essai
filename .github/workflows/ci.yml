@@ -26,5 +26,5 @@ jobs:
       # les autres plugins MkDocs ou extensions MarkDown
       # souhaités pour le déploiement du site...
 
-      #- run: mkdocs gh-deploy --force
-      - run: mkdocs gh-deploy 
+      
+      - run: mkdocs gh-deploy --force
