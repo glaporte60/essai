@@ -1,4 +1,4 @@
-# Bases de Python
+# :smile: Bases de Python
 
 <! -- Création d'un lien vers un nouvel onglet {:target="_blank" }  -->
 [Aide pour creer Mkdocs](https://ens-fr.gitlab.io/mkdocs/){:target="_blank" }
