@@ -5,6 +5,7 @@ du texte
 
 - truc
 - machin
+- bidule
 
 1. choose
 2. chosse2
