@@ -1,0 +1,53 @@
+site_name: "Le Site NSI au Lycée Jean CALVIN"
+site_url: https://monsite.com
+
+docs_dir: docs
+
+theme:
+  favicon: images/favicon.ico
+  icon:
+    logo: material/application-variable
+
+  custom_dir: my_theme_customizations/
+
+  name: material
+  language: fr                    # français
+  
+    
+
+markdown_extensions:
+    - pymdownx.superfences
+    # Pour pouvoir ajouter la largeur de l'image par exemple {width=50%}
+    - attr_list
+    # Pour afficher des bandeaux exemple, attention,etc
+    - admonition
+    - pymdownx.tabbed:
+          # Pour afficher des panneaux flottants
+          alternate_style: true 
+    # Pour afficher des emojis
+    - pymdownx.emoji
+    - pymdownx.snippets             # Inclusion de fichiers externe.
+    - md_in_html
+    
+      
+# Pour ajouter des pages    
+nav:
+    - 'Accueil' : 'index.md'
+    - 'A propos' : 'a_propos.md'
+    - 'EssaiCode' : 'EssaiCode/Essai_code.md'
+    - 'NSI1':
+        - 'Chapitre1': '1NSI/ch01/bases.md'
+
+plugins:
+    - search
+    - macros
+
+
+extra_javascript:
+  - xtra/config.js                    # MathJax
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - xtra/javascripts/interpreter.js
+
+extra_css:
+  - xtra/stylesheets/pyoditeur.css
+  - xtra/ajustements.css           # ajustements
