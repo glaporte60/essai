@@ -1,4 +1,4 @@
-# Bonjour, bienvenue sur le site des NSI du lycée Jean CALVIN
+# Bienvenue sur le site des NSI du lycée Jean CALVIN
 
  <! -- Site calvin :
 <figure>
