@@ -6,7 +6,8 @@
  <!-- <figcaption> Le lycée</figcaption>-->
  <!-- </figure>-->
 
-# Bonjour Antigone :smile:
+
+: Snake:
 
 <!-- # Image flottantes-->
 ![Logo_Calvin1](img/Logo_Calvin1.png){width=50% align=left}
