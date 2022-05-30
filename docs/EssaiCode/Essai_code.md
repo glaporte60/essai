@@ -1,1 +1,1 @@
-{{ IDE('foo/bar/somme', MAX = 10, SANS = 'sum') }}
+{{ IDE('foo/bar/somme', MAX = 8, SANS = 'sum') }}
