@@ -1,10 +1,10 @@
 # Bonjour, bienvenue sur le site des NSI du lycée Jean CALVIN
 
-Site calvin :
+ <! -- Site calvin :
 <figure>
 <img src="../img/Logo_Calvin1.png" width="300">
 <figcaption> Le lycée</figcaption>
-</figure>
+</figure>-->
 
 # Image flottantes
 ![Logo_Calvin1](img/Logo_Calvin1.png){width=50% align=left}
