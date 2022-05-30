@@ -4,6 +4,8 @@ Ecrire une fonction `somme` qui prend en paramètre une lsite d'entier et qui re
 
 ```markdown
 !!! example "Pour des exemples"
+    `example`
+```
 
 ```python
 >>> somme([1,2,3])

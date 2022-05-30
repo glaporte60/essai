@@ -38,5 +38,10 @@ Elles permettent de délimiter des blocs de contenu
 
 ```markdown
 !!! note "Pour une note"
-    `note` ou `seealso`
+    `note`
+```
+
+```markdown
+!!! example "Pour des exemples"
+    `example`
 ```
