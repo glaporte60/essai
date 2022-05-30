@@ -36,9 +36,8 @@ Elles permettent de délimiter des blocs de contenu
 
     Elles structurent donc sans alourdir les onglets de navigation.
 
-    !!! note "Pour une note"
+!!! note "Pour une note"
 
-
-    !!! example "Pour des exemples"
+!!! example "Pour des exemples"
 
 
