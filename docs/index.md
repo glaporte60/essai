@@ -7,7 +7,7 @@
  <!-- </figure>-->
 
 
-: Snake:
+:snake:
 
 <!-- # Image flottantes-->
 ![Logo_Calvin1](img/Logo_Calvin1.png){width=50% align=left}
