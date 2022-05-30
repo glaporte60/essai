@@ -2,7 +2,7 @@
 
 Site calvin :
 <figure>
-<img src="/img/Logo_Calvin1.png" width="300">
+<img src="../img/Logo_Calvin1.png" width="300">
 <figcaption> Le lycée</figcaption>
 </figure>
 
