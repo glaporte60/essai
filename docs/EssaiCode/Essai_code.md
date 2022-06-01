@@ -20,3 +20,5 @@ Ecrire une fonction `somme` qui prend en paramètre une lsite d'entier et qui re
 >>> False
 ```
 
+{{ IDE('recherche', MAX = 8, SANS = 'sum') }}
+
