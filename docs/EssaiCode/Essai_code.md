@@ -10,7 +10,7 @@
     >>> somme([1,2,3])
     >>> 6   
     ```
-    {{ IDE('somme', MAX = 8, SANS = 'sum') }}
+    {{IDE('somme', MAX = 10, SANS = 'sum')}}
 
 === "Exercice 2 "
 
@@ -21,5 +21,11 @@
     >>> recherche(ch, 'p')
     >>> False
     ```
-    {{ IDE('recherche', MAX = 8, SANS = 'sum') }}
+
+    {{IDE('recherche', MAX = 10)}}
+
+=== "Aide"
+    # A completer
+
+
 

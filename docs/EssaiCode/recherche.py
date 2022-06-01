@@ -1,4 +1,5 @@
 ch = 'maman'
 
-def recherche(chaine : str, caractere : str ) -> bool :
-    return
+def recherche(ch, c) :
+
+    return 

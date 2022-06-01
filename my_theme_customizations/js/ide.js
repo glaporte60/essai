@@ -1,3 +1,4 @@
+
 var tagHdr = "#--- HDR ---#";
 
 var _slate = document.getElementById("ace_palette").dataset.aceDarkMode
