@@ -11,3 +11,12 @@ Ecrire une fonction `somme` qui prend en paramètre une lsite d'entier et qui re
 
 
 {{ IDE('somme', MAX = 8, SANS = 'sum') }}
+
+!!! example "Résultat à obtenir"
+```python
+>>> recherche(ch, 'a')
+>>> True
+>>> recherche(ch, 'p')
+>>> False
+```
+
