@@ -1,24 +1,25 @@
 # Un premier programme Python
 
-Ecrire une fonction `somme` qui prend en paramètre une lsite d'entier et qui renvoit la somme des éléments du tableau
+=== "Exercice 1 "
+
+    Ecrire une fonction `somme` qui prend en paramètre une lsite d'entier et qui renvoit la somme des éléments du tableau
 
 
-!!! example "Résultat à obtenir"
-```python
->>> somme([1,2,3])
->>> 6   
-```
+    !!! example "Résultat à obtenir"
+    ```python
+    >>> somme([1,2,3])
+    >>> 6   
+    ```
+    {{ IDE('somme', MAX = 8, SANS = 'sum') }}
 
+=== "Exercice 2 "
 
-{{ IDE('somme', MAX = 8, SANS = 'sum') }}
-
-!!! example "Résultat à obtenir"
-```python
->>> recherche(ch, 'a')
->>> True
->>> recherche(ch, 'p')
->>> False
-```
-
-{{ IDE('recherche', MAX = 8, SANS = 'sum') }}
+    !!! example "Résultat à obtenir"
+    ```python
+    >>> recherche(ch, 'a')
+    >>> True
+    >>> recherche(ch, 'p')
+    >>> False
+    ```
+    {{ IDE('recherche', MAX = 8, SANS = 'sum') }}
 
