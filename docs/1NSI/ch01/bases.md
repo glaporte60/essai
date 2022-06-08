@@ -5,7 +5,7 @@
 
 :smile:
 
-=== "Explication"
+=== "Explication TOP"
 
     On souhaite faire une fonction Python somme qui prend en paramètre une liste et qui renvoie la somme de cette 
     liste
