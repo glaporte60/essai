@@ -26,9 +26,6 @@
     
     [A essayer sur PythonTutor](https://pythontutor.com/visualize.html){target=__blank}
 
-{.md-button}
-
-
 
 
 
