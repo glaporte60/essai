@@ -24,7 +24,9 @@
     somme([1,2,3,4,5,6,7,8,9,10)
     ```
     
-    [A essayer sur PythonTutor](https://pythontutor.com/visualize.html){.md-button}{target=__blank}
+    [A essayer sur PythonTutor](https://pythontutor.com/visualize.html){target=__blank}
+
+{.md-button}
 
 
 
