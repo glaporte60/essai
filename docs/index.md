@@ -1,18 +1,8 @@
-# Bienvenue sur le site des NSI du lycée Jean CALVIN
-
- <!-- Site calvin :-->
- <!-- <figure>
- <!-- <img src="../img/Logo_Calvin1.png" width="300">-->
- <!-- <figcaption> Le lycée</figcaption>-->
- <!-- </figure>-->
-
-
 <!-- # Image flottantes-->
-![Logo_Calvin1](img/Logo_Calvin1.png){width=30% align=left}
-Bienvenue sur le site des sciences de l'Informatique et du Numérique
+![Logo_Calvin1](img/Logo_Calvin1.png){width=40% align=right}
+# Bienvenue sur le site des NSI
 
 
-# Sommaire
 
 === "Programme de Première"
     !!! note "Les chapitres"
@@ -23,7 +13,8 @@ Bienvenue sur le site des sciences de l'Informatique et du Numérique
 
 === "Programme de Terminale"
     !!! note "Les chapitres"
-        1. [Bases de données - Langage SQL](../essai/TNSI/Bases_De_Donnees/Bases_De_Donnees)
+        1. [Révisions](../essai/TNSI/Revisions/Revisions)
+        2. [Bases de données - Langage SQL](../essai/TNSI/Bases_De_Donnees/Bases_De_Donnees)
         2. Récursivité
         3. La programmation orientée objet
         4. Les arbres

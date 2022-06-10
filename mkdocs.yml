@@ -13,15 +13,46 @@ theme:
 
   name: material
   language: fr                    # français
-  
+  palette:                        # Palettes de couleurs jour/nuit
+      - media: "(prefers-color-scheme: light)"
+        scheme: default
+        primary: purple
+        accent: indigo
+        toggle:
+            icon: material/weather-sunny
+            name: Passer au mode nuit
+      - media: "(prefers-color-scheme: dark)"
+        scheme: slate
+        primary: blue
+        accent: blue
+        toggle:
+            icon: material/weather-night
+            name: Passer au mode jour
+  features:
+        - navigation.instant
+        - navigation.tabs
+        - navigation.top
+        - toc.integrate
+        - header.autohide
+
+
+
+
     
 
 markdown_extensions:
+    - abbr
+
+    - def_list                      # Les listes de définition.
+    - attr_list                     # Un peu de CSS et des attributs HTML.
+
     - pymdownx.superfences
     # Pour pouvoir ajouter la largeur de l'image par exemple {width=50%}
     - attr_list
+    - footnotes                     # Notes[^1] de bas de page.  [^1]: ma note.
     # Pour afficher des bandeaux exemple, attention,etc
     - admonition
+    - pymdownx.details              #   qui peuvent s'enrouler ou se dérouler.
     - pymdownx.tabbed:
           # Pour afficher des panneaux flottants
           alternate_style: true 
@@ -39,6 +70,7 @@ nav:
     - 'NSI1':
         - 'Chapitre1': '1NSI/ch01/bases.md'
     - 'TNSI':
+        - 'Révisions': 'TNSI/Revisions/Revisions.md'
         - 'Bases de Données': 'TNSI/Bases_De_Donnees/Bases_De_Donnees.md'
 
 plugins:
