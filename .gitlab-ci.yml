@@ -8,6 +8,7 @@ pages:
     - python -m pip install mkdocs-material
     - python -m pip install mkdocs-jupyter
     - mkdocs build --site-dir public
+    
   artifacts:
     paths:
       - public
