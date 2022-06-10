@@ -38,9 +38,12 @@ nav:
     - 'EssaiCode' : 'EssaiCode/Essai_code.md'
     - 'NSI1':
         - 'Chapitre1': '1NSI/ch01/bases.md'
+    - 'TNSI':
+        - 'Bases de Données': 'TNSI/Bases_De_Donnees/Bases_De_Donnees.md'
 
 plugins:
     - search
+    - sqlite-console
     - macros
 
 
