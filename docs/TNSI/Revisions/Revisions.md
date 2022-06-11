@@ -44,5 +44,18 @@ description : Les programmes Python à maîtriser
     ??? done "Solution"
         A venir
 
+??? note "Exercice 4 : Moi en premier!"
+    Ecrire une fonction `indice` qui prend en paramètre une chaine de caractère et un caractère recherché et qui renvoit l'indice de la première occurrence du caractère recherché
+    !!! example "Résultat à obtenir"
+    ``` python linenums="1"
+    indice('Bonjour', 'o')
+    1
+    indice('Bonjour', 'r')
+    6
+    ```
+    {{IDE('indice', MAX = 10, SANS = 'max')}}
+    
+    ??? done "Solution"
+        A venir
 
 [📄 Accueil](../../../){ .md-button }
