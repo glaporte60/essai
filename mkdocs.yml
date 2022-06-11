@@ -16,7 +16,7 @@ theme:
   palette:                        # Palettes de couleurs jour/nuit
       - media: "(prefers-color-scheme: light)"
         scheme: default
-        primary: purple
+        primary: light blue
         accent: indigo
         toggle:
             icon: material/weather-sunny
@@ -34,15 +34,11 @@ theme:
         - navigation.top
         - toc.integrate
         - header.autohide
+        - content.code.annotate 
 
-
-
-
-    
 
 markdown_extensions:
     - abbr
-
     - def_list                      # Les listes de définition.
     - attr_list                     # Un peu de CSS et des attributs HTML.
 
@@ -53,6 +49,12 @@ markdown_extensions:
     # Pour afficher des bandeaux exemple, attention,etc
     - admonition
     - pymdownx.details              #   qui peuvent s'enrouler ou se dérouler.
+    - pymdownx.caret                # Passage ^^souligné^^ ou en ^exposant^.
+    - pymdownx.mark                 # Passage ==surligné==.
+    - pymdownx.tilde                # Passage ~~barré~~ ou en ~indice~.
+    - pymdownx.highlight:           # Coloration syntaxique du code
+        auto_title: true
+
     - pymdownx.tabbed:
           # Pour afficher des panneaux flottants
           alternate_style: true 
@@ -60,6 +62,10 @@ markdown_extensions:
     - pymdownx.emoji
     - pymdownx.snippets             # Inclusion de fichiers externe.
     - md_in_html
+    - pymdownx.emoji:               # Émojis  :boom:
+        emoji_index:     !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
+
     
       
 # Pour ajouter des pages    
