@@ -20,6 +20,7 @@ jobs:
       - run: pip install mkdocs-kroki-plugin
       - run: pip install mkdocs-macros-plugin
       - run : pip install git+https://github.com/Epithumia/mkdocs-sqlite-console
+      - run : pip install mkdocs-thumbnails
 
       # - run: pip install mkdocs-macros-plugin
       # C'est ici qu'il faut ajouter si besoin
