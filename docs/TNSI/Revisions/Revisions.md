@@ -21,7 +21,7 @@ description : Les programmes Python à maîtriser
     ``` python linenums="1"
     maximum([1,20,40,2,25,3])
     40
-    recherche([120,20,40,2,25,3])
+    maximum([120,20,40,2,25,3])
     120
     ```
     {{IDE('maximum', MAX = 10, SANS = 'max')}}
