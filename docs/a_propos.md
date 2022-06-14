@@ -14,8 +14,3 @@ du code en ligne
 print('Bonjour')
 ```
 
-```sql
-SELECT nom
-FROM film
-WHERE acteur='Moi'
-```
