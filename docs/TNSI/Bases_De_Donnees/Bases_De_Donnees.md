@@ -12,7 +12,9 @@
 
 === "Exercices"
     !!! note "Agences de locations de voitures"
-    Test 2 :
+    
+    Le schéma relationnel
+
     ![Schema_Relationnel_Locations](../../img/Schema_Relationnel_Locations.png)
     
     Visualiser toute la relation Agences
