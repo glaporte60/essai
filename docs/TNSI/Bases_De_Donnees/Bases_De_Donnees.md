@@ -1,15 +1,31 @@
-# Exemple de test
+
 
 <!--Testez :
 
 {!{ sqlide titre="Tape ta requête SQL ici :" init="BDD/les_Aliens0.sql"}!}
 -->
 
+=== "Cours"
+    Le SQL
+    
+    
 
-Test 2 :
-![Schema_Relationnel_Locations](../../img/Schema_Relationnel_Locations.png)
+=== "Exercices"
+    !!! note "Agences de locations de voitures"
+    Test 2 :
+    ![Schema_Relationnel_Locations](../../img/Schema_Relationnel_Locations.png)
+    
+    Visualiser toute la relation Agences
 
-Visualiser toute la relation Agences
+    Exemple : 
+    ```sql
+    SELECT *
+    FROM vehicules
+    WHERE kilometrage>10000
+    ```
 
-{!{ sqlide titre="Tape ta requête SQL ici :" init="BDD1/locations.sql"}!}
+    {!{ sqlide titre="Tape ta requête SQL ici :" init="BDD1/locations.sql"}!}
+    
+
+[📄 Accueil](../../../){ .md-button }
 

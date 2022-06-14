@@ -13,9 +13,7 @@ description : Les programmes Python à maîtriser
     ```
     {{IDE('somme', MAX = 10, SANS = 'sum')}}
 
-    ??? done "Solution"
-        A venir
-
+    
 
 ??? note "Exercice 2 : Recherche d'un maximum dans une liste"
     Ecrire une fonction `maximum` qui prend en paramètre une liste d'entier et qui renvoit la valeur maximum du tableau
