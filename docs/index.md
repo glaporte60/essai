@@ -6,7 +6,7 @@
 
 === "Programme de Première"
     !!! note "Les chapitres"
-        1. [Les Bases de Python](../essai/EssaiCode/Essai_code) 
+        1. [Les Bases de Python](../essai/1NSI/ch01/bases) 
         2. 
         3. 
 
