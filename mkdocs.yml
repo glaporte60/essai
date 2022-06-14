@@ -71,13 +71,12 @@ markdown_extensions:
 # Pour ajouter des pages    
 nav:
     - 'Accueil' : 'index.md'
-    - 'A propos' : 'a_propos.md'
-    - 'EssaiCode' : 'EssaiCode/Essai_code.md'
-    - 'NSI1':
+    - '1NSI':
         - 'Chapitre1': '1NSI/ch01/bases.md'
     - 'TNSI':
         - 'Révisions': 'TNSI/Revisions/Revisions.md'
         - 'Bases de Données': 'TNSI/Bases_De_Donnees/Bases_De_Donnees.md'
+    - 'A propos' : 'a_propos.md'
 
 plugins:
     - search

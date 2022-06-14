@@ -56,4 +56,20 @@ description : Les programmes Python à maîtriser
     ??? done "Solution"
         A venir
 
+??? note "Exercice 5 : Je sais compter"
+    Ecrire une fonction `nombres_occurrences` qui prend en paramètre une chaine de caractère et un caractère et qui renvoit le nombre de fois qu'apparaît le caractère dans la chaîne de caractère
+    !!! example "Résultat à obtenir"
+    ``` python linenums="1"
+    nombres_occurrences('Mississippi', 'o')
+    0
+    nombres_occurrences('Mississippi', 'i')
+    4
+    nombres_occurrences('Mississippi', 'M')
+    1
+    ```
+    {{IDE('nombres_occurrences', MAX = 10)}}
+    
+    ??? done "Solution"
+        A venir
+
 [📄 Accueil](../../../){ .md-button }
