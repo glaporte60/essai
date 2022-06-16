@@ -7,8 +7,14 @@
 === "Programme de Première"
     !!! note "Les chapitres"
         1. [Les Bases de Python](../essai/1NSI/ch01/bases) 
-        2. 
-        3. 
+        2. [Représentation des données : Types et valeur de base](../essai/1NSI/ch02/ch02)
+        3. [Représentation des données : Types construits]
+        4.
+        5.
+        6.
+        7.
+        8. [Algorithmiques](../essai/1NSI/Algorithmique/Tri/Tri) 
+
 
 
 === "Programme de Terminale"

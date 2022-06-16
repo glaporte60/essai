@@ -1,6 +1,6 @@
 site_name: "Le Site NSI au Lycée Jean CALVIN"
 site_url: https://glaporte60.github.io/essai
-repo_url: https://github.com/glaporte60/essai
+# repo_url: https://github.com/glaporte60/essai
 
 docs_dir: docs
 
@@ -73,6 +73,8 @@ nav:
     - 'Accueil' : 'index.md'
     - '1NSI':
         - 'Chapitre1': '1NSI/ch01/bases.md'
+        - 'Chapitre2': '1NSI/ch02/ch02.md'
+        - 'Le tri selection et le tri insertion' : '1NSI/Algorithmique/Tri/Tri.md'
     - 'TNSI':
         - 'Révisions': 'TNSI/Revisions/Revisions.md'
         - 'Bases de Données': 'TNSI/Bases_De_Donnees/Bases_De_Donnees.md'
