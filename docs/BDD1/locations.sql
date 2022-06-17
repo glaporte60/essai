@@ -19,8 +19,8 @@ INSERT INTO `vehicules` VALUES ('DF-269-EF','Renault Twingo',134340,5);
 INSERT INTO `vehicules` VALUES ('DE-254-AE','Peugeot 108',215460,4);
 INSERT INTO `vehicules` VALUES ('ED-587-EE','Peugeot 108',155465,4);
 INSERT INTO `vehicules` VALUES ('AA-654-BA','Peugeot 108',115890,6);
-INSERT INTO `vehicules` VALUES ('EE-854-EF','Citroën C4',91105,6);
-INSERT INTO `vehicules` VALUES ('AE-478-DD','Citroën C5',2589,8);
+INSERT INTO `vehicules` VALUES ('EE-854-EF','Citro&eumln C4',91105,6);
+INSERT INTO `vehicules` VALUES ('AE-478-DD','Citro&eumln C5',2589,8);
 CREATE TABLE `locations` (
 	`id`	INTEGER NOT NULL,
 	`vehicule`	TEXT,
