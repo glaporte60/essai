@@ -35,7 +35,7 @@
                 tab[k] = tab[indice_min]
                 tab[indice_min] = tmp
         ```
-    [Cliquer ici pour vérifier sur PythonTutor](https://urlz.fr/izlK){target=__blank}
+    Pour vérifier sur PythonTutor, cliquer [ici](https://urlz.fr/izlK){target=__blank}
 
     *Vérification :*
     ```python
@@ -80,7 +80,7 @@
     5. Notre élément est maintenant à l'indice ```k - 1```.  
     La boucle peut continuer.
 
-    [Cliquer ici pour vérifier sur PythonTutor](https://urlz.fr/izmt){target=__blank}
+    Pour vérifier sur PythonTutor, cliquer [ici](https://urlz.fr/izmt){target=__blank}
 
     *Vérification :*
 

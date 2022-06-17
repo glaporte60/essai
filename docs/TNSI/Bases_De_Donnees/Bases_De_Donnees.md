@@ -6,7 +6,7 @@
 -->
 
 === "Cours"
-    Le SQL
+    Pour la gestion des accents sur les fichiers SQL clique [ICI](https://www.scriptol.fr/creation-site-web/accents-html.php){target=__blank}
     
     
 
