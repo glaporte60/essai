@@ -1,41 +1,34 @@
 # :smile: Bases de Python
 
-<! -- Création d'un lien vers un nouvel onglet {:target="_blank" }  -->
-[Aide pour creer Mkdocs](https://ens-fr.gitlab.io/mkdocs/){:target="_blank" }
+<! --
 
-
-=== "Explication TOP"
-
-    On souhaite faire une fonction Python somme qui prend en paramètre une liste et qui renvoie la somme de cette 
-    liste
+ Création d'un lien vers un nouvel onglet {:target="_blank" }  
+[Aide pour creer Mkdocs](https://ens-fr.gitlab.io/mkdocs/){:target="_blank" } 
+[recherche Icons](https://fontawesomeicons.com/svg/icons/pip){:target="_blank" }
+-->
 
 
 
-=== "En python"
+=== "Site d'apprentissage Python"
+    !!! note "Niveau Débutant"
+        - [^^Futurtecoder^^](https://fr.futurecoder.io/course/#toc){:target="_blank" }
+    !!! note "Niveau Intermédiaire"
+        - [^^France IOI^^](http://www.france-ioi.org/){:target="_blank" }
+    !!! note "Niveau Professionnel"
 
-    !!! example "Voici la fonction somme"
-    ```python
-    def somme(L):
-	somme=0
-	   for i in L:
-	   somme+=i	
-	return somme
-    somme([1,2,3,4,5,6,7,8,9,10])
-    ```
+
+
+
+=== "Exercices Niveau 1"
+
+    !!! exercice "Exercice N°1"
+        En 1 ligne, __afficher__ le message "Bonjour à tous"
+        {{IDE()}}
     
-    [A essayer sur PythonTutor](https://urlz.fr/ixZu){target=__blank}
-
-
-
-
-Elles permettent de délimiter des blocs de contenu
-     avec une touche de couleur, sans créer de nouvelles
-     entrées dans la table des matières.
-
-    Elles structurent donc sans alourdir les onglets de navigation.
-
-!!! note "Pour une note"
-
-!!! example "Pour des exemples"
-
+    !!! exercice "Exercice N°2"
+        A l'aide d'une boucle for, __afficher__ le message "Bonjour à tous" trois fois
+        {{IDE()}}
+    
+    
+    
 
