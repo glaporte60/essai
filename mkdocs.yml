@@ -65,6 +65,10 @@ markdown_extensions:
     - pymdownx.emoji:               # Émojis  :boom:
         emoji_index:     !!python/name:materialx.emoji.twemoji
         emoji_generator: !!python/name:materialx.emoji.to_svg
+    
+    - pymdownx.arithmatex: #Pour pouvoir écrire des expressions mathématiques
+        generic: true
+
 
     
       
@@ -88,6 +92,7 @@ plugins:
 
 
 extra_javascript:
+  - xtra/javascripts/mathjacs.js
   - xtra/config.js                    # MathJax
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - xtra/javascripts/interpreter.js
@@ -95,3 +100,14 @@ extra_javascript:
 extra_css:
   - xtra/stylesheets/pyoditeur.css
   - xtra/ajustements.css           # ajustements
+
+extra:
+  social:
+    - icon: moodle
+      link: https://lyc-noyon.fr/
+      name: Moodle au lycée Jean CALVIN
+    - icon: email
+      link: mailto:guitchlaporte@gmail.com
+      name: Mail
+
+copyright: Sous licence CC BY-NC-SA 4.0
