@@ -2,7 +2,8 @@
 ![Logo_Calvin1](img/Logo_Calvin1.png){width=40% align=right}-->
 
 # La spécialité Numérique Sciences de l'Informatique
-![Logo_Calvin1](img/Logo_Calvin1.png){width=20% align=center}
+![Logo_Calvin1](img/Logo_Calvin1.png){width=25% align=center}
+![](img/laptop.gif){width=20% align=center}
 
 === "PREMIÈRE"
     !!! note ""
