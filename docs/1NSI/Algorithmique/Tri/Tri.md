@@ -37,7 +37,7 @@
  
     ## 3. Implémentation de l'algorithme Tri Sélection
     
-    !!! abstract "Tri par sélection :heart: "
+    !!! abstract "Tri par sélection"
         ```python
         def tri_selection(tab) :
             n=len(tab)
