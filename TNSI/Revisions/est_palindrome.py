@@ -1,0 +1,3 @@
+def est_palindrome(chaine):
+    inverse = inverse_chaine(chaine)
+    return ...

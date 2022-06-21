@@ -1,0 +1,3 @@
+def est_nbre_palindrome(nbre):
+    chaine = ...
+    return est_palindrome(chaine)
