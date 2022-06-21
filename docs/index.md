@@ -5,7 +5,7 @@
 ![Logo_Calvin1](img/Logo_Calvin1.png){width=25% align=center}
 ![](img/laptop.gif){width=20% align=center}
 
-=== "PREMIÈRE"
+=== "PREMIÈRE NSI"
     !!! note ""
         1. Histoire de l’informatique --> A venir 
         2. [Représentation des données : Types et valeur de base](../essai/1NSI/ch02/ch02)
@@ -19,7 +19,7 @@
 
 
 
-=== "TERMINALE"
+=== "TERMINALE NSI"
     !!! note ""
         1. [Révisions](../essai/TNSI/Revisions/Revisions)
         2. [Bases de données - Langage SQL](../essai/TNSI/Bases_De_Donnees/Bases_De_Donnees)
